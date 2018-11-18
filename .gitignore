@@ -1,4 +1,7 @@
 *.jl.cov
 *.jl.*.cov
 *.jl.mem
+*.gitignore
+*.ipynb_checkpoints
+*.projects
 deps/deps.jl
