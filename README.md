@@ -1,2 +1,2 @@
 # Assignment7
-This is a small change in the readme for Assignment 7.
+This is for Assignment 7.
